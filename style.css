@@ -1,0 +1,344 @@
+
+
+h1{
+    text-align: center;
+    color:green;
+}
+
+.start{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 30px;
+}
+.people{
+    height: 300px;
+    display: inline-block;
+    background-color:lightblue;
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/icons/icon_food_png.png");
+    background-repeat: no-repeat;
+    text-align:center;
+    margin: 50px;
+    color: green;
+    margin-left: 120px;
+    
+}
+.center{
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 5%;
+}
+.social{
+    background-image: url("https://www.pngitem.com/pimgs/m/3-39404_linkedin-transparent-png-listen-to-the-free-facebook.png");
+    display: inline;
+    background-size: 50px;
+    background-repeat: no-repeat;
+}
+.para{
+    margin-left: 400px;
+    display: inline;
+}
+.rupees{
+    position: relative;
+    margin-top:20px;
+    width: 400px;
+    height: 20px;
+    left: 980px;
+    bottom: 40px;
+    cursor: pointer;
+    display: flex;
+}
+li{
+    display: inline;
+    margin: 10px;
+}
+ol{
+    padding-left: 500px;
+    display: flex;
+}
+.size{
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/Saylani-logo.png");
+    width: 200px;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    
+}
+.family{
+    display: inline-block;
+    height: 300px;
+    background-color: lightblue;
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/icons/icon_family_png.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 50px;
+    color: green;
+    margin-left: 60px;
+   
+}
+.medical{
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    background-color: lightblue;
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/icons/icon_medical_png.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 50px;
+    color: green;
+}
+.education{
+    display: inline-block;
+    height: 300px;
+    background-color: lightblue;
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/icons/icon_education_png.png");
+    background-size: 200px;
+    background-repeat: no-repeat; text-align: center;
+    margin: 50px;
+    color: green;
+}
+.first{
+    background-color: pink;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin: 5px 10px;
+    margin-left:100px ;
+    cursor: pointer;
+}
+.one{
+    position: relative;
+    padding-left: 200px;
+    bottom: 170px;
+    cursor: pointer;
+}
+h2{
+    position: relative;
+    padding-left: 150px;
+    bottom: 170px;
+}
+.second{
+    background-color: pink;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin: 5px 10px;
+    margin-left:130px ;
+    cursor: pointer;
+}
+.two{
+    position: relative;
+    padding-left: 650px;
+    bottom: 320px;
+    cursor: pointer;
+}
+h3{
+    font-size: 25px;
+    position: relative;
+    padding-left: 640px;
+    bottom: 330px;
+}
+.third{
+    background-color: pink;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin: 5px 10px;
+    margin-left:130px ;
+    cursor: pointer;
+}
+.three{
+    position: relative;
+    padding-left: 1100px;
+    bottom: 480px;
+}
+h4{
+    font-size:25px ;
+    position: relative;
+    padding-left: 1090px;
+    bottom: 490px;
+}
+.fourth{
+    background-color: pink;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin: 5px 10px;
+    margin-left: 120px;
+    position: relative;
+    bottom: 400px;
+    right: 20px;
+    cursor: pointer;
+}
+.four{
+    position: relative;
+   right: 240px;
+    bottom: 500px;
+    cursor: pointer;
+}
+.heading1{
+    position: relative;
+    bottom: 500px;
+}
+.fifth{
+    background-color: pink;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin: 5px 10px;
+    margin-left: 540px;
+    position: relative;
+    bottom: 670px;
+    cursor: pointer;
+}
+.five{
+    position: relative;
+    bottom: 770px;
+    right: 200px;
+    cursor: pointer;
+    cursor: pointer;
+}
+.heading2{
+    position: relative;
+    padding-left: 640px;
+    bottom: 770px;
+}
+.sixth{
+    background-color: pink;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin: 5px 10px;
+    margin-left: 1000px;
+    position: relative;
+    bottom: 950px;
+    right: 10px;
+    cursor: pointer;
+}
+.heading3{
+    position: relative;
+    padding-left: 1080px;
+    bottom: 1050px;
+ } 
+.six{
+    position: relative;
+    bottom: 1050px;
+    right: 210px;
+    cursor: pointer;
+}
+.project{
+    background-color: pink;
+    height: 50px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    margin-left: 150px;
+    bottom: 150px;
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/icons/Hepatitis.png");
+    background-repeat: no-repeat;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.project1{
+    background-color: pink;
+    height: 50px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 150px;
+    position: relative;
+    bottom: 150px;
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/icons/housing.png");
+    background-repeat: no-repeat;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.project2{
+    background-color: pink;
+    height: 50px;
+    width: 350px;
+    margin-left: 150px;
+    position: relative;
+    bottom: 80px;
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/icons/IT.png");
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.project3{
+    background-color: pink;
+    height: 50px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 660px;
+    position: relative;
+    bottom: 130px;
+    background-image: url("https://www.saylaniwelfare.com/public_html/images/saylani/icons/tharparkar.png");
+    background-repeat: no-repeat;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.events{
+    width: 280px;
+    position: relative;
+    left: 1100px;
+    bottom: 400px;
+}
+.image{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#end{
+    background-color: aqua;
+    padding-left: 100px;
+    margin-top: 100px;
+    padding-top: 60px;
+}
+.head1{
+    padding-left: 500px;
+}
+.head3{
+    padding-top: 110px;
+    margin-left: 180px;
+}
+#last{
+    margin-top: 10px;
+    display: block;
+}
+.phone{
+    background-image: url("data:image/png;base64,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");
+    background-size: 100px;
+ 
+}
+.picture{
+    padding-left: 470px;
+}
+button:hover{
+    background-color:plum;
+}
+.news{
+    background-color: rosybrown;
+    margin-bottom: 50px;
+}
+.setting{
+    position: relative;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    bottom: 700px; 
+}
+.setting1{
+    position: relative;
+    bottom: 1000px;
+    margin-bottom: 0px;
+}
+.top{
+    position: fixed;
+    bottom: 30px;
+    right: 10px;
+}
